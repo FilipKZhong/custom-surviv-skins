@@ -15,47 +15,42 @@
 
 var left = document.querySelector('#ad-block-left');
 left.innerHTML = `<div class="container">
-    <div class="header">
-        <h2>Select skin</h2>
+  <div class="header">
+    <h2>Select skin</h2>
+  </div>
+  <div class="skins">
+    <div class="skin valiantPineapple">
+      <img src="https://i.imgur.com/Di76DSD.png" alt="" class="skin-img" />
+      <h4 class="skin-name">Valiant Pineapple</h4>
     </div>
-    <div class="skins">
-        <div class="skin valiantPineapple">
-            <img src="https://i.imgur.com/Di76DSD.png"
-                alt="" class="skin-img">
-            <h4 class="skin-name">Valiant Pineapple</h4>
-        </div>
-        <div class="skin casanovaSilks">
-            <img src="https://i.imgur.com/Z0gQ50L.png" alt=""
-                class="skin-img">
-            <h4 class="skin-name">Casanova Silks
-            </h4>
-        </div>
-        <div class="skin imperialSeal">
-            <img src="https://i.imgur.com/h2a6nU9.png" alt=""
-                class="skin-img">
-            <h4 class="skin-name">Imperial Seal</h4>
-        </div>
-        <div class="skin redVictorious">
-            <img src="https://i.imgur.com/8ZRZcnw.png" alt="" class="skin-img">
-            <h4 class="skin-name">Red Victorious</h4>
-        </div>
-        </div>
-        <div class="skin aquaticAvenger">
-            <img src="https://i.imgur.com/KK6FP65.png" alt="" class="skin-img">
-            <h4 class="skin-name">Aquatic Avenger</h4>
-        </div>
-        <div class="skin tarkhanyRegal">
-            <img src="https://i.imgur.com/ju8Qsao.png" alt="" class="skin-img">
-            <h4 class="skin-name">Tarkhany Regal</h4>
-        </div>
-        <div class="skin custom01">
-            <img src="https://i.imgur.com/oLQAsEv.png" alt="" class="skin-img">
-            <h4 class="skin-name">custom skin 01</h4>
-        </div>
-        
+    <div class="skin casanovaSilks">
+      <img src="https://i.imgur.com/Z0gQ50L.png" alt="" class="skin-img" />
+      <h4 class="skin-name">Casanova Silks</h4>
     </div>
+    <div class="skin imperialSeal">
+      <img src="https://i.imgur.com/h2a6nU9.png" alt="" class="skin-img" />
+      <h4 class="skin-name">Imperial Seal</h4>
+    </div>
+    <div class="skin redVictorious">
+      <img src="https://i.imgur.com/8ZRZcnw.png" alt="" class="skin-img" />
+      <h4 class="skin-name">Red Victorious</h4>
+    </div>
+
+    <div class="skin aquaticAvenger">
+      <img src="https://i.imgur.com/KK6FP65.png" alt="" class="skin-img" />
+      <h4 class="skin-name">Aquatic Avenger</h4>
+    </div>
+    <div class="skin tarkhanyRegal">
+      <img src="https://i.imgur.com/ju8Qsao.png" alt="" class="skin-img" />
+      <h4 class="skin-name">Tarkhany Regal</h4>
+    </div>
+    <div class="skin custom01">
+      <img src="https://i.imgur.com/oLQAsEv.png" alt="" class="skin-img" />
+      <h4 class="skin-name">custom skin 01</h4>
+    </div>
+  </div>
 </div>
-</div>`
+`
 
 var container = document.querySelector('.container');
 container.setAttribute("style", "width: 100%; overflow-y: scroll; height: 100%;text-align: center;");
