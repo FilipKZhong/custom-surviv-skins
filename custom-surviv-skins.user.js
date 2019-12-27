@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         test
+// @name         custom surviv skins
 // @namespace    https://github.com/notKaiAnderson/
 // @version      0.1
 // @description  try to take over the world!
