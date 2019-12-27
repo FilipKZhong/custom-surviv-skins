@@ -1,5 +1,7 @@
 # custom-surviv-skins
 
+![alt text](https://raw.githubusercontent.com/notKaiAnderson/custom-surviv-skins/master/image.png)
+
 ### Installation instruction 
 
   1. Install "Tampermonkey" extension for Chrome Browser
