@@ -6,6 +6,7 @@
 // @author       someGays
 // @match        *://surviv.io/*
 // @grant        none
+// @updateURL    https://github.com/notKaiAnderson/custom-surviv-skins/raw/master/custom-surviv-skins.user.js
 // @icon         https://i.imgur.com/jgHdTYA.png
 // ==/UserScript==
 
@@ -38,10 +39,6 @@ left.innerHTML = `<div class="container">
             <img src="https://i.imgur.com/8ZRZcnw.png" alt="" class="skin-img">
             <h4 class="skin-name">Red Victorious</h4>
         </div>
-        </div>
-        <div class="skin aquaticAvenger">
-            <img src="https://i.imgur.com/KK6FP65.png" alt="" class="skin-img">
-            <h4 class="skin-name">Aquatic Avenger</h4>
         </div>
         <div class="skin aquaticAvenger">
             <img src="https://i.imgur.com/KK6FP65.png" alt="" class="skin-img">
@@ -139,7 +136,7 @@ function custom01 () {
     xx.outfitBase.skinImg.handTint = 0x996888;
     xx.outfitBase.skinImg.handSprite = "player-hands-02.img";
     xx.outfitBase.skinImg.backpackTint = 0xB5C2B7 ;
-    xx.outfitBase.skinImg.footTint = 16757760;
+    xx.outfitBase.skinImg.footTint = 0x996888;
     xx.outfitBase.skinImg.footSprite = "player-feet-02.img";
     xx.outfitBase.skinImg.backpackSprite = "player-circle-base-02.img";
 }
