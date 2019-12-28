@@ -9,11 +9,11 @@
   3. Select basic outfit from loadout
 
 ### Note:
- 1. 3rd party extensions (or code changes) is not official or supported by the developers of the game,
- 2. they take no responsibility for 3rd party and doesn't recommend it neither,
- 3. all usage of it is on own risk and extensions THAT GIVES YOU A ADVANTAGE is not allowed!
+* 3rd party extensions (or code changes) is not official or supported by the developers of the game,
+* they take no responsibility for 3rd party and doesn't recommend it neither,
+* all usage of it is on own risk and extensions THAT GIVES YOU A ADVANTAGE is not allowed!
 
 
 ### Disclaimer:
- 1. This script doesn't contain any hackusations, or code that gives you a unfair advantage.
- 2. Only you can see the custom skin 
+* This script doesn't contain any hackusations, or code that gives you a unfair advantage.
+* Only you can see the custom skin 
