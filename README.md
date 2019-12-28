@@ -5,7 +5,7 @@
 ### Installation instruction 
 
   1. Install "Tampermonkey" extension for Chrome Browser
-  2. Install the script from [here](https://github.com/notKaiAnderson/custom-surviv-skins/raw/master/custom-surviv-skins.user.js)
+  2. Install the script from [here](https://greasyfork.org/en/scripts/394362-custom-surviv-skins)
   3. Select basic outfit from loadout
 
 ### Note:
